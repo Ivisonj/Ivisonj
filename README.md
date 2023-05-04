@@ -3,11 +3,12 @@
 - 💻 I'm working as a front-end developer
 - 🌱 I’m Learning Typescrip
 
-<div>
-  <a href="https://github.com/Ivisonj" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivisonj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivisonj&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivisonj&show_icons=true&locale=en&layout=compact" alt="ivisonj" /></p>
+
+<p>&nbsp;<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=ivisonj&show_icons=true&locale=en" alt="ivisonj" /></p>
+
+<p><img style="margin-rigth:auto; margin-left:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=ivisonj&" alt="ivisonj" /></p>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,10 +21,7 @@
   <img align="center" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-          
-          
-          
-          
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />          
 </div>
 
 
