@@ -1,7 +1,7 @@
 ### Hi! I'm Ivison Joel 👋
 
-- 💻 I'm working as a front-end developer
-- 🌱 I’m Learning VueJS
+- 💻 I'm working as a fullstack developer
+- 🌱 I’m Learning hexagonal architecture
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivisonj&show_icons=true&locale=en&layout=compact" alt="ivisonj" /></p>
 
